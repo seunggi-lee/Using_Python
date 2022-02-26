@@ -15,5 +15,3 @@ def solution(nums):
         if prime(sum(i)):
             answer += 1
     return answer
-
-print(solution([1,2,7,6,4]))
