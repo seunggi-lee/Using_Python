@@ -10,4 +10,4 @@ def solution(number, k):
         answer = answer[:len(answer) - k]
 
     answer = list(map(str, answer))
-    return str("".join(answer))ㅏ
+    return str("".join(answer))
