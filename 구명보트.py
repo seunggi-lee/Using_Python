@@ -32,4 +32,4 @@ def solution(people, limit):
             else:
                 answer += 1
     print(people)
-    return answer
+    return answer + 1
