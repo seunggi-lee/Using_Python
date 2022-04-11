@@ -31,5 +31,4 @@ def solution(people, limit):
                 break
             else:
                 answer += 1
-    print(people)
     return answer
