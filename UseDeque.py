@@ -40,3 +40,7 @@ print(deq)
 deq.rotate(3)
 
 print(deq)
+
+deq.rotate(-1)
+
+print(deq)
