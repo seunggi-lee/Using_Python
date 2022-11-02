@@ -1,9 +1,7 @@
 def solution(n):
-    answer = []
     target = n
 
     arr = [i for i in range(1, n + 1)]
-    print(arr)
     s = e = cnt = 0
 
     while e < len(arr):
